@@ -39,7 +39,6 @@ body {
 h2 {
     position: absolute;
     font-size: 16px;
-    background: rgba(236, 3, 3, 0.726);
     font-weight: bold;
     top: 142px;
     left: calc(50% - 72.5px);
